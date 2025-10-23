@@ -1,2 +1,2 @@
-# Topological_Ring_Array
+# Topological Ring Array
 Later
